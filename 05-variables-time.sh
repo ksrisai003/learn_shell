@@ -1,7 +1,7 @@
 #!/bin/bash
 
 Start_Time=$(date +%s)
-echo "Task executed at : $Start_time"
+echo "Task executed at : $Start_Time"
 
 sleep 10
 
